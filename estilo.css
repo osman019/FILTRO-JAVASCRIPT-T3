@@ -1,0 +1,15 @@
+* {padding: 0;
+margin: 0;}
+
+body{background-image: url('img/fondo-plano-estilo-comic_23-2148810242.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+#personaje1{
+    border: 1px solid red;
+    width: 10vw;
+    height: 10vh;
+}
+h1{color: white;}

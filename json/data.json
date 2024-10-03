@@ -1,0 +1,66 @@
+{
+  
+  "Marvel": [ {
+    "superheroe": "Spider-Man",
+    "nombre": "Peter Parker ",
+    "biografia": "Abrimos nuestra particular lista con los mejores superhéroes de Marvel con Spider-Man, uno de los personajes más icónicos de la factoría. Conocido por su sentido arácnido, es una de las principales estrellas de los cómics y las películas de Marvel.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Spider-Man.jpg/1920px-Spider-Man.jpg"
+  },
+  {
+    "superheroe": "Iron Man",
+    "nombre": "Anthony Edward Stark",
+    "biografia": "Un genio millonario inventa una armadura de alta tecnología para combatir el crimen, la historia no puede empezar mejor. Iron Man, con su ingenio y humor, se ha convertido en otro de los superhéroes fundamentales de Marvel Studios",
+    "imagen": "https://www.theguardian.com/film/2023/dec/08/has-marvel-really-ditched-iron-man-mcu-robert-downey-jr#img-1"
+  },
+  {
+    "superheroe": "Capitana Marvel",
+    "nombre": "Carol Danvers",
+    "biografia": "Las superheroínas cada vez tienen más peso en el universo Marvel. Como es el caso de Capitana Marvel, una poderosa heroína con habilidades sobrehumanas que utiliza en su lucha contra el mal.",
+    "imagen": "https://i0.wp.com/www.fanisetas.com/blog/storage/2019/02/hipertextual-capitana-marvel-estrena-dos-trailers-dos-semanas-su-debut-cines-2019292046.jpg?w=670&ssl=1"
+  },
+  {
+   "superheroe": "Thor",
+    "nombre": "Christopher Hemsworth",
+    "biografia": "El dios del trueno es un personaje imponente, con un arma legendaria y habilidades sobrehumanas. Además, su carácter noble lo convierte en una pieza clave del universo Marvel.",
+    "imagen": "https://i0.wp.com/www.fanisetas.com/blog/storage/2019/02/hipertextual-capitana-marvel-estrena-dos-trailers-dos-semanas-su-debut-cines-2019292046.jpg?w=670&ssl=1"
+  },
+  {
+    "superheroe": "Hulk",
+    "nombre": "Bruce Banner",
+    "biografia": "Por culpa de una explosión radioactiva, nuestro superhéroe número cinco, adquiere la habilidad de transformarse en un monstruo verde y poderoso. Aunque detrás de su aterradora apariencia hay un personaje entrañable.",
+    "imagen": "https://img.lalr.co/cms/2020/12/04195155/HULK.jpg?w=960"
+  },
+  {
+    "superheroe": "Black Widow",
+    "nombre": "Natalia Alianovna Romanova",
+    "biografia": "Con un gran entrenamiento y su oscuro pasado, nuestra superheroína número seis, es junto a sus compañeros de Los Vengadores otro de los personajes de Marvel que merecen estar en esta lista",
+    "imagen": "https://wallpapers.com/images/high/black-widow-1920-x-1080-picture-6qpbflv20mdmwayu.webp"
+  },
+  {
+    "superheroe": "Wolverine",
+    "nombre": "James Howlett",
+    "biografia": "Wolverine es uno de los personajes más interesantes y complejos de Marvel. Famoso por sus garras retráctiles de adamantium y su carácter solitario, no podía faltar en nuestra lista de superhéroes",
+    "imagen": "https://static.independentespanol.com/2024/07/29/15/newFile-17.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp"
+  },
+  {
+    "superheroe": "Capitán América",
+    "nombre": "Steven 'Steve' Grant Rogers",
+    "biografia": "Con su mítico escudo, ya convertido en uno de los símbolos más reconocibles de la cultura pop en todo el planeta, el líder natural de Los Vengadores está por derecho propio en el Olimpo de los superhéroes de Marvel.",
+    "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-287359-160426144011-captain-america-civil-war-780x439.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp"
+  },
+  {
+    "superheroe": "Deadpool",
+    "nombre": "Wade Winston Wilson",
+    "biografia": "Deadpool es un antihéroe chistoso y divertido con la extraña habilidad de hacer comentarios sarcásticos y humorísticos en las situaciones más inoportunas.",
+    "imagen": "https://hips.hearstapps.com/hmg-prod/images/deadpool-3-copia-65b923e7ae954.jpg?resize=980:*"
+  },
+  {
+    "superheroe": "Deadpool",
+    "nombre": "Wade Winston Wilson",
+    "biografia": "Deadpool es un antihéroe chistoso y divertido con la extraña habilidad de hacer comentarios sarcásticos y humorísticos en las situaciones más inoportunas.",
+    "imagen": "https://hips.hearstapps.com/hmg-prod/images/deadpool-3-copia-65b923e7ae954.jpg?resize=980:*"
+  }
+
+]
+   
+}
