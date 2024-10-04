@@ -1,7 +1,7 @@
 * {padding: 0;
 margin: 0;}
 
-body{background-image: url('img/fondo-plano-estilo-comic_23-2148810242.avif');
+body{background-image: url('');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -9,7 +9,64 @@ body{background-image: url('img/fondo-plano-estilo-comic_23-2148810242.avif');
 
 #personaje1{
     border: 1px solid red;
-    width: 10vw;
+    width: 1vw;
     height: 10vh;
+    color: black;
+    font-size: 1.5em;
+    width: 15vw;
+    height: 40vh;
+    text-align: center;
+    border-radius: 1vw;
+    overflow: hidden;
+
+}
+#personaje2{
+  border: 1px solid red;
+    width: 1vw;
+    height: 10vh;
+    color: black;
+    font-size: 1.5em;
+    width: 15vw;
+    height: 40vh;
+    text-align: center;
+    border-radius: 1vw;
+    overflow: hidden;
+}
+#personaje3{
+  border: 1px solid red;
+    width: 1vw;
+    height: 10vh;
+    color: black;
+    font-size: 1.5em;
+    width: 15vw;
+    height: 40vh;
+    text-align: center;
+    border-radius: 1vw;
+    overflow: hidden;
+}
+#personaje4{
+  border: 1px solid red;
+    width: 1vw;
+    height: 10vh;
+    color: black;
+    font-size: 1.5em;
+    width: 15vw;
+    height: 40vh;
+    text-align: center;
+    border-radius: 1vw;
+    overflow: hidden;
 }
 h1{color: white;}
+span{color: ;}
+#grid {
+  display: grid;
+  height: 200px;
+  grid-template: repeat(5, 1fr) / repeat(5, 1fr);
+  gap: 20px 5px;
+  height: 90vh;
+}
+
+#grid > div {
+  border: 1px solid green;
+  background-color: rgb(214, 250, 131);
+}
